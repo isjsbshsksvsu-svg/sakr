@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سكر</string>
+    <string name="input_hint">اكتب أو ألصق النص العربي هنا…</string>
+    <string name="btn_analyze">تحليل وتنسيق</string>
+    <string name="btn_generate">توليد الملف</string>
+    <string name="btn_save_draft">حفظ مسودة</string>
+    <string name="btn_view_drafts">المسودات</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_open">فتح الملف</string>
+    <string name="btn_back">رجوع</string>
+    <string name="btn_new_document">مستند جديد</string>
+    <string name="btn_save_template">حفظ كقالب</string>
+    <string name="btn_convert_numerals">تحويل الأرقام</string>
+    <string name="preview_title">معاينة المستند</string>
+    <string name="input_title">إدخال النص</string>
+    <string name="drafts_title">المسودات</string>
+    <string name="templates_title">القوالب</string>
+    <string name="processing">جارٍ المعالجة…</string>
+    <string name="file_saved">تم حفظ الملف بنجاح</string>
+    <string name="file_saved_path">تم الحفظ في: %1$s</string>
+    <string name="error_empty">الرجاء إدخال نص أولاً</string>
+    <string name="error_processing">حدث خطأ أثناء المعالجة</string>
+    <string name="confirm_delete">هل أنت متأكد من الحذف؟</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">إلغاء</string>
+    <string name="edit_hint">عدّل النص هنا…</string>
+    <string name="save">حفظ</string>
+    <string name="no_drafts">لا توجد مسودات محفوظة</string>
+    <string name="no_templates">لا توجد قوالب بعد</string>
+    <string name="convert_to_heading">تحويل إلى عنوان</string>
+    <string name="convert_to_paragraph">تحويل إلى فقرة</string>
+    <string name="convert_to_bullet">تحويل إلى قائمة</string>
+    <string name="delete_block">حذف الكتلة</string>
+    <string name="merge_with_previous">دمج مع السابقة</string>
+    <string name="file_name_hint">اسم الملف</string>
+    <string name="default_file_name">مستند_سكر</string>
+    <string name="text_shared_from">نص مستلم من تطبيق آخر</string>
+    <string name="numerals_converted">تم تحويل الأرقام</string>
+    <string name="draft_saved">تم حفظ المسودة</string>
+    <string name="template_saved">تم حفظ القالب</string>
+    <string name="share_placeholder">اكتب أو ألصق النص…</string>
+    <string name="app_description">تطبيق تحويل النص العربي إلى وورد منسق</string>
+</resources>

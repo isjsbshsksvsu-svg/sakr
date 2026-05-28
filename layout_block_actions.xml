@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.ChipGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/chipGroupBlockActions"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:visibility="gone"
+    app:chipSpacing="4dp"
+    app:singleLine="true">
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chipHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/convert_to_heading"
+        app:chipIcon="@drawable/ic_heading"
+        app:chipIconSize="16dp"
+        style="@style/Widget.Material3.Chip.Filter" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chipParagraph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/convert_to_paragraph"
+        app:chipIcon="@drawable/ic_paragraph"
+        app:chipIconSize="16dp"
+        style="@style/Widget.Material3.Chip.Filter" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chipMerge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/merge_with_previous"
+        app:chipIcon="@drawable/ic_merge"
+        app:chipIconSize="16dp"
+        style="@style/Widget.Material3.Chip.Filter" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chipDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_block"
+        app:chipIcon="@drawable/ic_delete"
+        app:chipIconSize="16dp"
+        style="@style/Widget.Material3.Chip.Filter" />
+
+</com.google.android.material.chip.ChipGroup>
